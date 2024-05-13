@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/thesaurus",
+  "version": "1.0.0",
+  "description": "Thesaurus is a simple tool for getting word synonyms. It returns a list of synonyms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/thesaurus-API.git"
+  },
+  "keywords": [
+    "thesaurus"," thesaurus api"," thesaurus tool"," thesaurus software"," thesaurus service"," thesaurus library"," thesaurus sdk"," thesaurus code"," thesaurus script"," thesaurus program"," thesaurus application"," thesaurus app"," thesaurus utility"," thesaurus helper"," thesaurus helper tool"," thesaurus helper software"," thesaurus helper service"," thesaurus helper library"," thesaurus helper sdk"," thesaurus helper code"," thesaurus helper script"," thesaurus helper program"," thesaurus helper application"," thesaurus helper app"," thesaurus helper tool"," thesaurus helper utility"," thesaurus helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/thesaurus-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/thesaurus-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
