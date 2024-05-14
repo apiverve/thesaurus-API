@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/thesaurus-API.git"
   },
   "keywords": [
-    "thesaurus"," thesaurus api"," thesaurus tool"," thesaurus software"," thesaurus service"," thesaurus library"," thesaurus sdk"," thesaurus code"," thesaurus script"," thesaurus program"," thesaurus application"," thesaurus app"," thesaurus utility"," thesaurus helper"," thesaurus helper tool"," thesaurus helper software"," thesaurus helper service"," thesaurus helper library"," thesaurus helper sdk"," thesaurus helper code"," thesaurus helper script"," thesaurus helper program"," thesaurus helper application"," thesaurus helper app"," thesaurus helper tool"," thesaurus helper utility"," thesaurus helper"
+    "thesaurus","thesaurus api","thesaurus tool","thesaurus software","thesaurus service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
