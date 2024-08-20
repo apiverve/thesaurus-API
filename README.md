@@ -125,7 +125,8 @@ api.execute(query, function (error, data) {
       "thumping",
       "whopping"
     ]
-  }
+  },
+  "code": 200
 }
 ```
 
